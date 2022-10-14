@@ -13,6 +13,10 @@ Dependencies used:
     
 No third party library is used.    
 
+#android-face-detection
+#mlkit
+#face-detection-android-app
+#simple-face-detection
 
 // END
 
